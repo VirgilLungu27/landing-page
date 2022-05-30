@@ -1,3 +1,8 @@
 .hero, .footer {
     background-color: #1F2937;
 }
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
