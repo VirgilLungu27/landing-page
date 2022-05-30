@@ -18,4 +18,10 @@ h1 {
 
 .button, .action {
     background-color: #3882F6;
+    
+}
+.info.p {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bolder;
 }
