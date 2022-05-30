@@ -15,3 +15,7 @@ h1 {
     font-size: 24px;
     color: #F9FAF8;
 }
+
+.button, .action {
+    background-color: #3882F6;
+}
