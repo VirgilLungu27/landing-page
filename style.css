@@ -6,3 +6,7 @@ h1 {
     font-size: 48px;
     font-weight: bolder;
 }
+.hero.p, .link {
+    font-size: 18px;
+    color: #E5E7EB; 
+}
