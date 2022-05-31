@@ -71,7 +71,6 @@ a {
 }
 
 .hero h1, h4 {
-    max-width: 400px;
     height: auto;
     display: flex;
     flex-wrap: wrap;
@@ -97,10 +96,16 @@ a {
     border-radius: 16px;
 }
 
-.mamo {
+.hero img {
     display: flex;
     justify-content: flex-end;
-    margin: 30px;
     align-items: center;
     flex-direction: column;
+    margin-left: 165px;
+}
+
+.text1 {
+    text-align: center;
+    word-wrap: wrap;
+    max-width: 400px;
 }
