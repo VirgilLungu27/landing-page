@@ -68,13 +68,14 @@ a {
     margin: 5px; 
 }
 
-.hero {
+.hero h1 p{
     max-width: 300px;
     height: auto;
     display: flex;
     flex-wrap: wrap;
     padding-left: 200px;
     justify-content: center;
+    
 }
 
 .button, .button2 {
@@ -86,4 +87,8 @@ a {
     display: inline-block;
     margin: 4px 2px;
     border-radius: 16px;
+}
+
+.mamo {
+
 }
