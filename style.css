@@ -68,7 +68,7 @@ a {
     margin: 5px; 
 }
 
-.hero h1, h4, .button {
+.hero h1, h4 {
     max-width: 400px;
     height: auto;
     display: flex;
@@ -77,17 +77,24 @@ a {
     justify-content: center;
 }
 
+.hero button {
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+}
+
 .button, .button2 {
     background-color: #3882F6;
     font-size: 30px;
     font-family: 'Arial Narrow', 'Helvetica', sans-serif;
     text-align: center;
     padding: 12px;
-    display: inline-block;
     margin: 4px 2px;
     border-radius: 16px;
 }
 
 .mamo {
-
+    display: flex;
+    justify-content: flex-end;
+    margin: 30px;
 }
