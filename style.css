@@ -1,4 +1,4 @@
-.hero, .footer {
+.hero, footer {
     background-color: #1F2937;
 }
 
@@ -32,4 +32,10 @@ h1 {
     font-weight: 300;
     font-style: italic;
     color: #1F2937;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    
 }
