@@ -8,7 +8,7 @@ h1 {
     font-size: 48px;
     font-weight: 800;
 }
-.hero.p, .link {
+h4, .link {
     font-size: 18px;
     color: #E5E7EB; 
 }
@@ -68,14 +68,13 @@ a {
     margin: 5px; 
 }
 
-.hero h1 p{
-    max-width: 300px;
+.hero h1, h4, .button {
+    max-width: 400px;
     height: auto;
     display: flex;
     flex-wrap: wrap;
     padding-left: 200px;
     justify-content: center;
-    
 }
 
 .button, .button2 {
