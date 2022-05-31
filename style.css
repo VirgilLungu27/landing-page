@@ -1,6 +1,7 @@
 .hero, footer, header {
     background-color: #1F2937;
     color: white;
+    padding: 12px;
 }
 
 h1 {
@@ -15,6 +16,7 @@ h1 {
 .logo {
     font-size: 24px;
     color: #F9FAF8;
+    margin: 10px;
 }
 
 .button, .action {
@@ -64,4 +66,12 @@ header {
 a {
     border: 1px;
     margin: 5px; 
+}
+
+.hero {
+    max-width: 300px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 200px;
 }
