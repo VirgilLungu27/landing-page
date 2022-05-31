@@ -132,8 +132,9 @@ a {
     margin-left: -75px;
 }
 
-.weavile, .azumarill, .goodra, .heatran {
+.weavile {
     align-items: space-between;
+    justify-content: center;
     max-width: 300px;
     margin: 50px;
 }
@@ -142,5 +143,8 @@ a {
     padding: 12px;
     font-size: 22px;
     font-weight: 600;
+}
 
+.info {
+    display: flex;
 }
