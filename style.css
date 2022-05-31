@@ -156,8 +156,15 @@ a {
 
 .action {
     padding: 12px;
-    font-size: 22px;
+    font-size: 32px;
     font-weight: 600;
+    text-align: center;
+}
+
+.action button {
+    margin-top: -50px;
+    color: whitesmoke;
+    background-color: darkgray;
 }
 
 .info {
