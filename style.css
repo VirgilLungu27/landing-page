@@ -180,3 +180,9 @@ a {
     margin-right: 100px;
     margin-top: 50px;
 }
+
+.shakespeare {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: end;
+}
